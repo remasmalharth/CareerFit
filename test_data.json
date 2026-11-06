@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 1,
+    "requirement": "Experience developing REST APIs",
+    "resume": "Developed backend endpoints using FastAPI.",
+    "expected_match": true
+  },
+  {
+    "id": 2,
+    "requirement": "Knowledge of machine learning",
+    "resume": "Built machine learning models using Python.",
+    "expected_match": true
+  },
+  {
+    "id": 3,
+    "requirement": "Experience with AWS cloud infrastructure",
+    "resume": "Developed frontend applications using React.",
+    "expected_match": false
+  },
+  {
+    "id": 4,
+    "requirement": "Experience with Kubernetes",
+    "resume": "Interested in learning Kubernetes in the future.",
+    "expected_match": false
+  },
+  {
+    "id": 5,
+    "requirement": "Experience with SQL databases",
+    "resume": "Designed and queried relational databases using PostgreSQL.",
+    "expected_match": true
+  },
+  {
+    "id": 6,
+    "requirement": "Experience developing mobile applications",
+    "resume": "Created Android applications using Kotlin.",
+    "expected_match": true
+  },
+  {
+    "id": 7,
+    "requirement": "Experience with cybersecurity",
+    "resume": "Worked on data visualization dashboards using Power BI.",
+    "expected_match": false
+  },
+  {
+    "id": 8,
+    "requirement": "Experience with Docker",
+    "resume": "Completed a course introducing Docker concepts.",
+    "expected_match": false
+  },
+  {
+    "id": 9,
+    "requirement": "خبرة في تحليل البيانات",
+    "resume": "Analyzed datasets using Pandas and Python.",
+    "expected_match": true
+  },
+  {
+    "id": 10,
+    "requirement": "Experience with project management",
+    "resume": "Managed project timelines, tasks, and team deliverables.",
+    "expected_match": true
+  }
+]
