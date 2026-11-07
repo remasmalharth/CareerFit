@@ -1,5 +1,6 @@
 from fastapi import FastAPI, File, Form, HTTPException, UploadFile
 from pydantic import BaseModel
+ 
 from extractors import extract_text
 from matcher import analyze
  
